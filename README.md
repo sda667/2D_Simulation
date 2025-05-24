@@ -38,7 +38,8 @@ The project is structured around three main axes:
 - Visualization of evolving populations over time.
 
 ## ScreenShots
-![](./)
+![Screenshot 2025-05-24 at 05 18 11](https://github.com/user-attachments/assets/98aafaba-b9eb-462c-9898-55cf4b90cd38)
+
 
 
 ## Project Structure
