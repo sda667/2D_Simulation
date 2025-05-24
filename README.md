@@ -37,6 +37,9 @@ The project is structured around three main axes:
 - Inclusion of biological interactions (predation, competition, reproduction, etc.).
 - Visualization of evolving populations over time.
 
+## ScreenShots
+![](./)
+
 
 ## Project Structure
 
@@ -48,7 +51,7 @@ The project is structured around three main axes:
 
 ## Report
 
-The full report, explaining the methodological, theoretical, and technical approach, is available in [RapportScientifique_INFOF308.pdf](./RapportScientifique_INFOF308.pdf).
+The full report, explaining the methodological, theoretical, and technical approach, is available in [RapportScientifique_INFOF308](./RapportScientifique_INFOF308.pdf).
 
 ## Authors
 
