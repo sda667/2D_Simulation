@@ -1,4 +1,4 @@
-# 2D_simulation: 2D Marine Ecosystem Simulation
+# 2D_simulation: Marine life Ecosystem
 
 This project provides a computer simulation of a marine ecosystem in two dimensions (2D). Its aim is to model the complex interactions within a marine ecosystem, offering insights into its dynamics, biodiversity, and the impact of various factors on its balance.
 
