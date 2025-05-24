@@ -43,7 +43,7 @@ The project is structured around three main axes:
 
 
 ## Project Structure
-
+This project is private but you can check the stucture in the report
 - `main.py`: simulation entry point
 - `models/`: definition of ecosystem entities
 - `simulation/`: simulation logic and time management
