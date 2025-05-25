@@ -55,13 +55,12 @@ The project is organized around three core pillars:
 
 ## 📁 Project Structure
 
-This is a **private academic project**, but the structure is detailed in the report:
-
 - `main.py` – Entry point for the simulation  
 - `models/` – Entity definitions (species, environment, etc.)  
 - `simulation/` – Time management and simulation engine  
 - `visualisation/` – Rendering and visualization tools  
 - `RapportScientifique_INFOF308.pdf` – Full scientific report (French)
+You can check the full project in the release
 
 ---
 
