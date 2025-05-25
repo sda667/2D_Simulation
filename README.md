@@ -1,64 +1,83 @@
-# 2D_simulation: Marine life Ecosystem
+# 🌊 Marine Life Ecosystem 2D Simulator
 
-This project provides a computer simulation of a marine ecosystem in two dimensions (2D). Its aim is to model the complex interactions within a marine ecosystem, offering insights into its dynamics, biodiversity, and the impact of various factors on its balance.
+This project provides a 2D computer simulation of a marine ecosystem, aiming to model the complex biological interactions between species and environmental factors. It serves both scientific and educational purposes by offering insights into ecosystem dynamics, biodiversity, and the effects of various influences on ecological balance.
 
-## Objective
+---
 
-The main goal is to develop a tool to simulate and analyze interactions within a marine ecosystem, taking into account both theoretical and technical aspects.
+## 🎯 Objective
 
-## Background
+Develop a simulation tool to model and analyze the behavior of marine ecosystems from both a theoretical and technical perspective.
 
-Marine ecosystems play a vital role in the Earth’s biosphere:
-- Climate regulation
-- Provision of food resources
-- Preservation of biodiversity
+---
 
-This project is designed as both a scientific and educational tool to better understand these challenges through numerical simulation.
+## 🌍 Background
 
-## Methodology
+Marine ecosystems are essential to life on Earth, contributing to:
+- 🌡️ Climate regulation  
+- 🍽️ Food supply  
+- 🐠 Biodiversity preservation  
 
-The project is structured around three main axes:
+Understanding these systems through simulation enables better scientific awareness and decision-making.
 
-1. **Methodological Aspects**:  
-   - Presents the foundations needed to understand the simulation.
-   - Defines the main objectives and modeling assumptions.
+---
 
-2. **Theoretical Aspects**:  
-   - Logical modeling of ecosystem components (species, interactions, environment).
-   - Justifies modeling choices.
+## 🧠 Methodology
 
-3. **Technical Aspects**:  
-   - Software structure and implementation details in Python.
-   - Description of code architecture and main modules.
+The project is organized around three core pillars:
 
-## Features
+### 1. Methodological Aspects
+- Defines the project’s goals and modeling assumptions.
+- Lays the groundwork for simulation parameters.
 
-- Simulation of the dynamics of different marine species in a 2D environment.
-- Inclusion of biological interactions (predation, competition, reproduction, etc.).
-- Visualization of evolving populations over time.
+### 2. Theoretical Aspects
+- Models the ecosystem's components: species, behaviors, and environment.
+- Justifies modeling choices based on ecological principles.
 
-## ScreenShots
-![Screenshot 2025-05-24 at 05 18 11](https://github.com/user-attachments/assets/98aafaba-b9eb-462c-9898-55cf4b90cd38)
+### 3. Technical Aspects
+- Implements simulation logic using Python.
+- Modular architecture across models, visualization, and simulation control.
 
+---
 
+## ⚙️ Features
 
-## Project Structure
-This project is private but you can check the stucture in the report
-- `main.py`: simulation entry point
-- `models/`: definition of ecosystem entities
-- `simulation/`: simulation logic and time management
-- `visualisation/`: visualization scripts
-- `RapportScientifique_INFOF308.pdf`: full scientific report (in French)
+- Simulates interactions between marine species in a 2D grid.  
+- Models biological phenomena: predation, competition, reproduction.  
+- Visualizes population changes and ecological trends over time.
 
-## Report
+---
 
-The full report, explaining the methodological, theoretical, and technical approach, is available in [RapportScientifique_INFOF308](./RapportScientifique_INFOF308.pdf).
+## 🖼️ Screenshots
 
-## Authors
+![Simulation Screenshot](https://github.com/user-attachments/assets/98aafaba-b9eb-462c-9898-55cf4b90cd38)
 
-- Ali Bahja
-- Ze-Xuan Xu
-- Ibrahim Maatoug
-- Christopher Bilba
-- Zakaria Sabraoui 
+---
+
+## 📁 Project Structure
+
+This is a **private academic project**, but the structure is detailed in the report:
+
+- `main.py` – Entry point for the simulation  
+- `models/` – Entity definitions (species, environment, etc.)  
+- `simulation/` – Time management and simulation engine  
+- `visualisation/` – Rendering and visualization tools  
+- `RapportScientifique_INFOF308.pdf` – Full scientific report (French)
+
+---
+
+## 📄 Report
+
+For in-depth explanation of the **modeling, methods, and implementation**, see the report:  
+📘 [RapportScientifique_INFOF308.pdf](./RapportScientifique_INFOF308.pdf)
+
+---
+
+## 👥 Authors
+
+- Ali Bahja  
+- Ze-Xuan Xu  
+- Ibrahim Maatoug  
+- Christopher Bilba  
+- Zakaria Sabraoui  
+
 
